@@ -6,14 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminehammami17" alt="aminehammami17" /></a> </p>
 
-- 🌱 I’m currently a software engineer from **ISSAT Sousse**
+- 🌱 I’m currently a software engineering student from **ISSAT Sousse**
 
 - 📫 How to reach me **medaminehammami666@gmail.com**
 
 - 📄 Know about my experiences [https://medamineresume.tiiny.site/](https://medamineresume.tiiny.site/)
 
-- ⚡ Fun fact **When it comes to gaming, my precision in virtual football matches rivals that of professional quarterbacks on the real field.**
-
+- ⚡ Crafting code as smoothly as a wrestler executes a perfect suplex and tackling challenges like a footballer charging down the field for a winning goal
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
