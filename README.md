@@ -13,7 +13,6 @@
 - 📄 Know about my experiences [https://medamineresume.tiiny.site/](https://medamineresume.tiiny.site/)
 
 - ⚡ Crafting code as smoothly as a wrestler executes a perfect suplex and tackling challenges like a footballer charging down the field for a winning goal
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
