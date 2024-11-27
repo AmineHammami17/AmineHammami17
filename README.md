@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently a software engineering student from **ISSAT Sousse**
 
-- 📫 How to reach me **medaminehammami666@gmail.com**
+- 📫 How to reach me **medaminehammami08@gmail.com**
 
 - 📄 Know about my experiences [https://medamineresume.tiiny.site/](https://medamineresume.tiiny.site/)
 
