@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminehammami17" alt="aminehammami17" /></a> </p>
 
-- 🌱 I’m currently a software engineering student from **ISSAT Sousse**
+- 🌱 I’m currently a software engineer at Food4Future
 
 - 📫 How to reach me **medaminehammami08@gmail.com**
 
