@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋 I'm Mohamed Amine Hammami</h1>
 
 <h3 align="center">
-Software Engineer • Backend Developer • Mobile Developer • Problem Solver
+Software Engineer • Backend Developer • Web Developer • Problem Solver
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ Building scalable applications with Spring Boot, Angular, Flutter and modern clo
   - Distributed Systems
   - Event-Driven Architecture
 - ⚡ Passionate about building scalable backend systems and intuitive user experiences
-- 🎯 Interested in Backend Engineering, Mobile Development, AI, IoT and Cloud Technologies
+- 🎯 Interested in Backend Engineering, Web Development, AI, IoT and Cloud Technologies
 - ⚽ Football enthusiast
 - 🤼 Wrestling fan
 
@@ -81,7 +81,7 @@ Building scalable applications with Spring Boot, Angular, Flutter and modern clo
 
 - ⚽ Football Management Systems
 - 🌐 Enterprise Web Applications
-- 📱 Flutter Mobile Applications
+- 📱 Flutter Web Applications
 - ☁️ Spring Boot Microservices
 - 🤖 AI & IoT Solutions
 
